@@ -1,5 +1,5 @@
 # ? About Me:
-? I’m currently working on client projects<br>? I’m looking to collaborate on MEAN projects<br>? I’m looking for help with DSA<br>? I’m currently learning Node.js<br>? Ask me about Node.js<br>? BCA & MCA
+? I’m currently working on client projects<br>? I’m looking to collaborate on MEAN projects<br>? I’m looking for help with DSA<br>? I’m currently learning Node.js<br>? Ask me about Node.js<br>? BCA 
 
 
 # ? Tech Stack:
